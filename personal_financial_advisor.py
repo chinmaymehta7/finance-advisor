@@ -7,7 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/11mw5pi35Ls7WFi9Sg70I3Ak08GPNlj6m
 """
 
-pip install pandas streamlit matplotlib
+import pandas as pd
+import streamlit as st
+
+st.title("💰 Personal Finance Advisor")
 
 import pandas as pd
 
